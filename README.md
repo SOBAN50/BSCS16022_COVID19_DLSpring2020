@@ -7,3 +7,7 @@ This repository contains code and results for COVID-19 classification assignment
 Accuracy of the network on the 1506 test images: 97 %
 
 Accuracy of the network on the 1500 validation images: 89 %
+
+DATASET : https://drive.google.com/drive/u/1/folders/1rNAaDEfQbcGlumr_3Fewia4SObTrCHAk
+
+WEIGHTS : https://drive.google.com/drive/u/1/folders/1YdsZGesIFWBIRM6P_TZ5TvLB6ie66nyN
