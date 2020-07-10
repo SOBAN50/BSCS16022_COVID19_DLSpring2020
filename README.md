@@ -4,7 +4,6 @@ This readme contains 2 portions 1. COVID Detection through XRAY images 2.Using f
 
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes
 
-
 VGG-16:
 
 Accuracy of the network on the 1506 test images: 97 %
